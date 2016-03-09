@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Bernardo Rodriguez Hall
 // 
 // Create Date:    20:41:23 03/02/2016 
 // Design Name: 
