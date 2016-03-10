@@ -2,7 +2,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer:
+// Engineer:Ricardo Martínez Vallejos
 //
 // Create Date:   09:46:35 03/01/2016
 // Design Name:   maquinota2
