@@ -51,7 +51,7 @@ module SelFreceuncias_testbench;
 		
 		// Wait 100 ns for global reset to finish
 		#100
-		/*
+		
 		aumf_i = 1;
 		
 		#1
@@ -84,9 +84,9 @@ module SelFreceuncias_testbench;
 		aumf_i = 1;
 		
 		#1
-		aumf_i = 0;*/
+		aumf_i = 0;
 		#10000
-		// Add stimulus here
+		
 		$stop;
 	end
       
